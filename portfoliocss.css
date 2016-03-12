@@ -1,0 +1,116 @@
+#le-bluebg-img {
+  background-image: url(http://www.psdgraphics.com/file/orange-rings-background.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#le-orangebg-img {
+  background-image: url(http://cdn.pcwallart.com/images/light-blue-background-wallpaper-2.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#thirdbg-img {
+  background-image: url(http://www.freehdimages.in/uploads/large/desktop-hd-blue-orange-wallpaper.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.nav-wrapper {
+  width: auto;
+  height: 60px;
+  background-color: #15d7ed;
+  padding: 2%;
+}
+
+.nav-wrapper li {
+  display: inline;
+  font-family: Lobster;
+  font-size: 15px;
+  padding: .9% 2% .9% 2%;
+  border-radius: 5px;
+  border-width: 3px;
+  border-color: black;
+  background-color: #ff9138;
+  margin: auto;
+}
+
+.nav-wrapper a {
+  color: #000433;
+}
+
+.smbtn-bot-r {
+  padding: 2% 2% 35% 3.5%;
+  margin: auto;
+}
+
+.smbtn-bot-l {
+  padding: 2% 2% 35% 2%;
+  margin: auto;
+}
+
+.smbtn-top-l {
+  padding: 2% 3% 2% 2%;
+  margin: auto;
+}
+
+.smbtn-top-r {
+  padding: 2% 2.5% 2% 2%;
+  margin: auto;
+}
+
+.smactual-button {
+  border-radius: 5px;
+  border-width: 5px;
+  border-color: #ff9138;
+  background-color: #15d7ed;
+}
+
+#sm-links {
+  color: #000433;
+  font-family: Candle;
+}
+
+.myheader {
+  font-family: Candle, Lobster;
+  color: #09137a;
+  border-radius: 2px;
+  border-color: #ff9138;
+}
+
+.myheader-top {
+  font-family: Candle, Lobster;
+  color: #09137a;
+  border-radius: 2px;
+  border-color: #ff9138;
+  padding: 10% 0% 0% 0%;
+}
+
+.about-me-txt {
+  font-family: Candle, Lobster;
+}
+
+.bodyp-text {
+  color: #7c2d00;
+  font-size: 20px;
+  padding: 0% 0% 60% 0%;
+}
+
+#abtme-head {
+  padding: 5% 2% 0% 2%;
+}
+
+.myportrait {
+  height: 300px;
+  width: 300px;
+  border-width: 0px;
+  border-radius: 100%;
+  float: right;
+  margin: 0% 20% 0% 0%;
+}
+
+.portrait-lbl {
+  padding: 10% 0% 0% 0%;
+  font-size: 17px;
+  color: #301100;
+}
